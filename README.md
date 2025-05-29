@@ -46,3 +46,11 @@ Wykonaj następującą komendę:
 ```
 Po wykonaniu wyświetli się okienko z wizualizacją przydziału sędziów, a do tego przydział
 zostanie zapisany do pliku `output.csv` w obecnym folderze
+
+## Przykładowa wizualizacja 
+![Wizualizacja](example_visualization.png)
+
+## Przykładowy plik `output.csv`
+![Example output](example_output.png)
+
+

@@ -17,7 +17,6 @@ void draw_map(const std::vector<Match>& matches, const std::vector<Referee>& ref
 
         window.clear(sf::Color::White);
 
-        // Rysuj mecze i przypisanych sędziów
         for (const auto& match : matches) {
             float matchX = static_cast<float>(match.location.y);
             float matchY = static_cast<float>(match.location.x);
