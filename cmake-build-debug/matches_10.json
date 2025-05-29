@@ -1,0 +1,79 @@
+[
+  {
+    "date": "2025-06-01",
+    "time": "18:00",
+    "location": { "x": 520, "y": 310 },
+    "home_team": "Manchester United",
+    "away_team": "Chelsea"
+  },
+  {
+    "date": "2025-06-02",
+    "time": "20:30",
+    "location": { "x": 430, "y": 720 },
+    "home_team": "Real Madrid",
+    "away_team": "Barcelona"
+  },
+  {
+    "date": "2025-06-03",
+    "time": "19:45",
+    "location": { "x": 650, "y": 510 },
+    "home_team": "AC Milan",
+    "away_team": "Juventus"
+  },
+  {
+    "date": "2025-06-04",
+    "time": "17:30",
+    "location": { "x": 480, "y": 800 },
+    "home_team": "VfB Stuttgart",
+    "away_team": "Bayern Munich"
+  },
+  {
+    "date": "2025-06-05",
+    "time": "16:00",
+    "location": { "x": 530, "y": 450 },
+    "home_team": "Borussia Dortmund",
+    "away_team": "Schalke 04"
+  },
+  {
+    "date": "2025-06-06",
+    "time": "21:00",
+    "location": { "x": 400, "y": 290 },
+    "home_team": "Liverpool",
+    "away_team": "Arsenal"
+  },
+  {
+    "date": "2025-06-07",
+    "time": "18:30",
+    "location": { "x": 615, "y": 390 },
+    "home_team": "Paris Saint-Germain",
+    "away_team": "Lyon"
+  },
+  {
+    "date": "2025-06-08",
+    "time": "20:15",
+    "location": { "x": 450, "y": 660 },
+    "home_team": "Ajax",
+    "away_team": "PSV Eindhoven"
+  },
+  {
+    "date": "2025-06-09",
+    "time": "19:00",
+    "location": { "x": 570, "y": 320 },
+    "home_team": "Inter Milan",
+    "away_team": "Napoli"
+  },
+  {
+    "date": "2025-06-10",
+    "time": "17:45",
+    "location": { "x": 490, "y": 380 },
+    "home_team": "Chelsea",
+    "away_team": "Tottenham"
+  },
+  {
+    "date": "2025-06-03",
+    "time": "19:45",
+    "location": { "x": 100, "y": 100 },
+    "home_team": "Real",
+    "away_team": "Barcelona"
+  }
+]

@@ -1,0 +1,23 @@
+# ninja log v6
+3	1764	1748466854988837478	CMakeFiles/RefsAndMatches.dir/utils/Assigment.cpp.o	26bca255aee4bc6a
+2	441	1748466854987837567	CMakeFiles/RefsAndMatches.dir/utils/Hour.cpp.o	7908c8ab95a4f759
+2	1941	1748466854987837567	CMakeFiles/RefsAndMatches.dir/utils/Match.cpp.o	59767d45cb938dd0
+2460	2563	1748467863128071583	RefsAndMatches	958602b7fd08436a
+3	619	1748290951686848710	CMakeFiles/RefsAndMatches.dir/Referee.cpp.o	55985b0396388260
+1	2460	1748467860669149111	CMakeFiles/RefsAndMatches.dir/main.cpp.o	880237f93e0d3450
+3	921	1748290951687848693	CMakeFiles/RefsAndMatches.dir/AssignmentOptimizer.cpp.o	a9862968f85fc6ee
+3	562	1748346854386213281	CMakeFiles/RefsAndMatches.dir/Match.cpp.o	cdaab66f60564500
+2	1180	1748466996014480892	CMakeFiles/RefsAndMatches.dir/utils/CSVsaver.cpp.o	7489ea4803320cdd
+3	19	1748349160721464669	CMakeFiles/RefsAndMatches.dir/utils/Location.cpp.o	c770356388355de9
+2	1786	1748466854987837567	CMakeFiles/RefsAndMatches.dir/utils/Date.cpp.o	fb97330664494ae9
+0	16	1748468456964616471	build.ninja	bfd01bd72cd6fa01
+3	23	1748346974298521046	CMakeFiles/RefsAndMatches.dir/MapVisualizer.cpp.o	721e2ec49d32bffd
+3	1474	1748350227085724193	CMakeFiles/RefsAndMatches.dir/utils/Referee.cpp.o	e80b331dca55ac5b
+5	2208	1748468546102398533	CMakeFiles/RefsAndMatches.dir/utils/MapDrawer.cpp.o	48c9ecf663247216
+3	2076	1748468587295386826	CMakeFiles/RefsAndMatches.dir/utils/Assignment.cpp.o	e25dfa1cc719db0a
+3	2736	1748468628082392470	CMakeFiles/RefsAndMatches.dir/main.cpp.o	880237f93e0d3450
+2736	2886	1748468630815326092	RefsAndMatches	473c44b378db7846
+2	2727	1748468662014570420	CMakeFiles/RefsAndMatches.dir/main.cpp.o	880237f93e0d3450
+2727	2866	1748468664739504599	RefsAndMatches	473c44b378db7846
+2	2610	1748468699678663089	CMakeFiles/RefsAndMatches.dir/main.cpp.o	880237f93e0d3450
+2611	2747	1748468702287600430	RefsAndMatches	473c44b378db7846

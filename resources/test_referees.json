@@ -1,0 +1,128 @@
+[
+  {
+    "name": "John",
+    "surname": "Smith",
+    "location": { "x": 612.5, "y": 355.78 },
+    "skills": 8
+  },
+  {
+    "name": "Anna",
+    "surname": "Kowalska",
+    "location": { "x": 503.0, "y": 342.00 },
+    "skills": 5
+  },
+  {
+    "name": "Carlos",
+    "surname": "Garcia",
+    "location": { "x": 21.0, "y": 49.33 },
+    "skills": 9
+  },
+  {
+    "name": "Marco",
+    "surname": "Rossi",
+    "location": { "x": 272.5, "y": 333.11 },
+    "skills": 7
+  },
+  {
+    "name": "Pierre",
+    "surname": "Dubois",
+    "location": { "x": 442.5, "y": 261.11 },
+    "skills": 6
+  },
+  {
+    "name": "Lukas",
+    "surname": "Müller",
+    "location": { "x": 625.0, "y": 317.78 },
+    "skills": 8
+  },
+  {
+    "name": "Ivan",
+    "surname": "Petrov",
+    "location": { "x": 787.5, "y": 755.56 },
+    "skills": 7
+  },
+  {
+    "name": "David",
+    "surname": "Johnson",
+    "location": { "x": 674.0, "y": 26.67 },
+    "skills": 6
+  },
+  {
+    "name": "Jorge",
+    "surname": "Fernandez",
+    "location": { "x": 70.0, "y": 261.33 },
+    "skills": 9
+  },
+  {
+    "name": "Erik",
+    "surname": "Larsson",
+    "location": { "x": 967.5, "y": 329.11 },
+    "skills": 5
+  },
+  {
+    "name": "Mateo",
+    "surname": "Romano",
+    "location": { "x": 98.0, "y": 372.00 },
+    "skills": 8
+  },
+  {
+    "name": "Ali",
+    "surname": "Yılmaz",
+    "location": { "x": 55.5, "y": 755.56 },
+    "skills": 7
+  },
+  {
+    "name": "Stefan",
+    "surname": "Ivanov",
+    "location": { "x": 127.5, "y": 635.11 },
+    "skills": 6
+  },
+  {
+    "name": "Daniel",
+    "surname": "Andersson",
+    "location": { "x": 787.5, "y": 288.89 },
+    "skills": 7
+  },
+  {
+    "name": "Petar",
+    "surname": "Nikolic",
+    "location": { "x": 232.5, "y": 511.11 },
+    "skills": 5
+  },
+  {
+    "name": "Marek",
+    "surname": "Szymanski",
+    "location": { "x": 502.5, "y": 417.33 },
+    "skills": 6
+  },
+  {
+    "name": "Andreas",
+    "surname": "Meyer",
+    "location": { "x": 552.5, "y": 311.11 },
+    "skills": 8
+  },
+  {
+    "name": "Sebastian",
+    "surname": "Nowicki",
+    "location": { "x": 610.5, "y": 375.11 },
+    "skills": 6
+  },
+  {
+    "name": "Viktor",
+    "surname": "Horváth",
+    "location": { "x": 375.0, "y": 419.78 },
+    "skills": 7
+  },
+  {
+    "name": "Lorenzo",
+    "surname": "Costa",
+    "location": { "x": 257.5, "y": 273.11 },
+    "skills": 7
+  },
+  {
+    "name": "Radu",
+    "surname": "Popescu",
+    "location": { "x": 222.5, "y": 691.11 },
+    "skills": 6
+  }
+]

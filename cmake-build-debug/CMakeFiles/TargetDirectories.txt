@@ -1,0 +1,3 @@
+/home/jan-martowicz/CLionProjects/RefsAndMatches/cmake-build-debug/CMakeFiles/RefsAndMatches.dir
+/home/jan-martowicz/CLionProjects/RefsAndMatches/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jan-martowicz/CLionProjects/RefsAndMatches/cmake-build-debug/CMakeFiles/rebuild_cache.dir

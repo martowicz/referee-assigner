@@ -1,0 +1,4 @@
+/home/jan-martowicz/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/jan-martowicz/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/jan-martowicz/CLionProjects/RefsAndMatches -B /home/jan-martowicz/CLionProjects/RefsAndMatches/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/jan-martowicz/CLionProjects/RefsAndMatches/cmake-build-debug
